@@ -1,0 +1,13 @@
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.level-1 div {
+    background-color: #E0E1DD;
+    padding: 8px;
+    border-radius: 4px;
+    margin: 1rem;
+}

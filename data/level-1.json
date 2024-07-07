@@ -1,0 +1,53 @@
+{
+    "title": "Example JSON",
+    "content": [
+        {
+            "id": "Cuts and Scrapes",
+            "info": "",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/L77rERL64zc?si=HaX5mEjGvzzu9hnw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        },
+
+        {
+            "id": "Burns",
+            "info": "",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JwlSXhSg69A?si=1WWhIuLl7SKez22i\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        },
+
+        {
+            "id": "Sprains and Strains",
+            "info": "",
+            "video": ""
+        },
+
+        {
+            "id": "Nosebleeds",
+            "info": "",
+            "video": ""
+        },
+
+        {
+            "id": "Insect Bites and Stings",
+            "info": "",
+            "video": ""
+        },
+
+        {
+            "id": "Heat Exhaustion",
+            "info": "",
+            "video": ""
+        },
+
+        {
+            "id": "Hypothermia",
+            "info": "",
+            "video": ""
+        },
+
+        {
+            "id": "Fainting",
+            "info": "",
+            "video": ""
+        }
+    ]
+    
+}
