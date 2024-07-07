@@ -3,50 +3,44 @@
     "content": [
         {
             "id": "Cuts and Scrapes",
-            "info": "",
+            "info": "Cuts and scrapes are common injuries that break the skin, often resulting from accidents or falls. Cuts are deeper injuries caused by sharp objects, while scrapes (abrasions) occur when the skin is rubbed or scraped off, often due to friction against rough surfaces.",
             "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/L77rERL64zc?si=HaX5mEjGvzzu9hnw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
         },
 
         {
             "id": "Burns",
-            "info": "",
+            "info": "Burns are injuries to the skin and deeper tissues caused by heat, electricity, chemicals, or radiation. The severity of a burn is categorized into degrees: First-Degree Burns: Minor burns affecting only the outer layer of skin, causing redness and mild pain. Second-Degree Burns: More severe burns that affect both the outer layer and underlying layer of skin, causing blistering, swelling, and intense pain. Third-Degree Burns: The most severe burns that penetrate all layers of the skin and may also damage muscles, bones, and nerves. The skin may appear white, charred, or leathery.",
             "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JwlSXhSg69A?si=1WWhIuLl7SKez22i\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
         },
 
         {
             "id": "Sprains and Strains",
-            "info": "",
-            "video": ""
+            "info": "Sprains and strains are common injuries affecting muscles, ligaments, and tendons, typically caused by overstretching or tearing due to sudden movements or excessive force.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/FFyQeOQjO9o?si=4pM8Cyf2lAWVF5Ms\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
         },
 
         {
             "id": "Nosebleeds",
-            "info": "",
-            "video": ""
+            "info": "Nosebleeds, also known as epistaxis, occur when the delicate blood vessels lining the nose become damaged or irritated, leading to bleeding from one or both nostrils.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3pSKRvIlVZ4?si=lHiHCOJiCf8WhA9C\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
         },
 
         {
             "id": "Insect Bites and Stings",
-            "info": "",
-            "video": ""
+            "info": "Insect bites and stings occur when insects inject venom or saliva into the skin while feeding or defending themselves. Reactions can vary from mild irritation to severe allergic reactions.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/wFdn8vMioio?si=5qQs38l36w3oy068\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
         },
 
         {
             "id": "Heat Exhaustion",
-            "info": "",
-            "video": ""
-        },
-
-        {
-            "id": "Hypothermia",
-            "info": "",
-            "video": ""
+            "info": "Heat exhaustion is a heat-related illness that occurs when the body overheats due to prolonged exposure to high temperatures and insufficient fluid intake. It is typically not as severe as heat stroke but still requires immediate attention.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/R6VdoV8dZRc?si=xtcphL2bpaKv2kDO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
         },
 
         {
             "id": "Fainting",
-            "info": "",
-            "video": ""
+            "info": "Fainting, also known as syncope, is a temporary loss of consciousness caused by a temporary decrease in blood flow to the brain. It often happens when the brain doesn't receive enough oxygen or glucose due to various factors.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ddHKwkMwNyI?si=OY78jdL64XxpALce\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
         }
     ]
     
