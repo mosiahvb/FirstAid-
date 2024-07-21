@@ -1,0 +1,47 @@
+{
+    "title": "level-2",
+    "content": [
+        {
+            "id": "Fractures",
+            "info": "Fractures are broken bones that can occur due to trauma, stress, or underlying health conditions. They are classified into different types based on the nature of the break.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2v8vlXgGXwE?si=4B62paN5ZeO1jjhO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        },
+
+        {
+            "id": "Asthma attacks",
+            "info": "An asthma attack is a sudden worsening of asthma symptoms caused by the tightening of muscles around the airways, inflammation, and increased mucus production. This can lead to difficulty breathing, coughing, wheezing, and chest tightness.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/hdVKpUR513M?si=5f1CXwR3IPy56G5P\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        },
+
+        {
+            "id": "Seizures",
+            "info": "Seizures are sudden, uncontrolled electrical disturbances in the brain that can cause a variety of symptoms, including changes in behavior, movement, sensations, or consciousness. They can occur in people with epilepsy or due to other medical conditions.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Ovsw7tdneqE?si=s6h4HL-gbrUSKdQm\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        },
+
+        {
+            "id": "Shock",
+            "info": "Shock is a medical emergency that occurs when the body is not getting enough blood flow, leading to inadequate oxygen and nutrients reaching vital organs. It can result from various causes, including severe injuries, blood loss, dehydration, infections, or allergic reactions.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/61urGQrmeNM?si=98GHilY3FGs03jvQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        },
+
+        {
+            "id": "Dislocation",
+            "info": "A dislocation is an injury where a joint is forced out of its normal position. This typically occurs due to a fall, blow, or other trauma, and it commonly affects joints like the shoulder, elbow, knee, hip, finger, or ankle.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sPzXAVNVJr0?si=tFEy3UwjHTPm4Ups\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        },
+
+        {
+            "id": "CPR",
+            "info": "Cardiopulmonary resuscitation (CPR) is a life-saving emergency procedure performed when someone's breathing or heartbeat has stopped. This can occur due to various emergencies, including heart attack, drowning, or choking.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BQNNOh8c8ks?si=neawQ2YB5qqRlIlQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        },
+
+        {
+            "id": "Bleeding",
+            "info": "Severe bleeding, also known as hemorrhage, occurs when a large amount of blood is lost from the body due to an injury. This can be life-threatening if not managed promptly and effectively.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/NxO5LvgqZe0?si=7ZRE-pQJR4zgrWhc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        }
+    ]
+    
+}

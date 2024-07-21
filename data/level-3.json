@@ -1,0 +1,58 @@
+{
+    "title": "level-2",
+    "content": [
+        {
+            "id": "IFAK",
+            "info": "An Individual First Aid Kit (IFAK) is a compact, portable medical kit designed to provide essential supplies and tools to treat injuries and medical emergencies in the field. It is commonly used by military personnel, law enforcement, emergency responders, and outdoor enthusiasts. The following will help you learn how to make your own IFAK",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/x_--5fuM1Dc?si=op8EAaLxuOp2q5ZH\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        },
+
+        {
+            "id": "Tourniquet",
+            "info": "A tourniquet is a medical device used to apply pressure to a limb or extremity in order to control severe bleeding. It is designed to restrict blood flow to the area beyond the point of application, effectively stopping arterial and venous blood flow to a wound.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/wWVne7cUrm8?si=4O47nCZIrkq-cDDT\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        },
+
+        {
+            "id": "Gauze",
+            "info": "Gauze is a lightweight, woven fabric, usually made of cotton, that is used in medical settings for dressing wounds, absorbing fluids, and protecting injuries. It is an essential component in first aid kits and medical supplies due to its versatility and effectiveness in managing various types of wounds.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2qBvQJ_N95s?si=I7n6gsL4zn4pl-4N\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        },
+
+        {
+            "id": "Pressure Dressing",
+            "info": "A pressure dressing is a bandage applied to a wound to control bleeding and help prevent further injury. It combines an absorbent pad with an elastic or adhesive wrap to apply continuous pressure directly over the wound, promoting clotting and stabilizing the area.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/LdXZ2gwIqbA?si=VxGk7nTZyIQ9Axp9\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        },
+
+        {
+            "id": "Emergency Blanket",
+            "info": "An emergency blanket, also known as a space blanket, thermal blanket, or mylar blanket, is a lightweight, compact, and highly reflective blanket designed to reduce heat loss in a person's body. It is used to provide emergency warmth, prevent hypothermia, and offer protection from the elements.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ecd1krG_GbQ?si=JO9RcySFBkaMV_Vp\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        },
+
+        {
+            "id": "Chest Seal",
+            "info": "A chest seal is a medical device used to treat open chest wounds, such as those caused by gunshots, stabbings, or other penetrating injuries. These wounds can lead to a life-threatening condition known as a sucking chest wound or pneumothorax, where air enters the chest cavity and collapses the lung.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MXTZbF4bAfE?si=ugDn31LhS_v7r7ze\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        },
+
+        {
+            "id": "NPA",
+            "info": "A Nasopharyngeal Airway (NPA) is a medical device used to maintain or open an airway in patients who have compromised or obstructed breathing but can still have an intact gag reflex. It is a flexible tube inserted through the nose and into the nasopharynx (the upper part of the throat behind the nose) to ensure a clear and unobstructed airway.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2kofRWNgQCc?si=2OX2y9cVPJVN82x0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        },
+        {
+            "id": "Decompression Needle",
+            "info": "A decompression needle, also known as a needle decompression kit or thoracostomy needle, is a medical device used to relieve pressure from the pleural space in the chest cavity. This pressure can be caused by a tension pneumothorax, a life-threatening condition where air accumulates in the pleural cavity and collapses the lung.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1AlFaLuuPVs?si=RuiQu6MdTS05YI5F\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        },
+
+        {
+            "id": "Stoping Bleeding",
+            "info": "The following video walk-through a variety of methods of stopping bleeding in emergency situation's.",
+            "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/qhOyXTm9XwY?si=WMAaS-ssbrcD74P1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        }
+    ]
+    
+}
