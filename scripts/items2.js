@@ -5,29 +5,46 @@ document.addEventListener("DOMContentLoaded", function() {
             const container = document.querySelector('.level-2');
 
             jsonData.content.forEach(item => {
-                // Create a new div
+                // Creates div
                 const div = document.createElement('div');
 
-                // Create and append the h3 element
+                // Creates h3
                 const h3 = document.createElement('h3');
                 h3.textContent = item.id;
                 div.appendChild(h3);
 
-                // Create and append the p element if info is provided
+                // Creates p
                 if (item.info) {
                     const p = document.createElement('p');
                     p.textContent = item.info;
                     div.appendChild(p);
                 }
 
-                // Add the video if the video HTML is provided
+                // Adds video link
                 if (item.video) {
                     div.innerHTML += item.video;
                 }
 
-                // Append the div to the container
-                container.appendChild(div);
-            });
+                 // Create watch list button
+                 const watchLaterButton = document.createElement('button');
+                 watchLaterButton.textContent = "Add to Watch List";
+                 watchLaterButton.addEventListener('click', () => addToWatchList(item));
+                 div.appendChild(watchLaterButton);
+ 
+                 // append
+                 container.appendChild(div);
+             });
         })
         .catch(error => console.error('Error loading JSON data:', error));
 });
+
+function addToWatchList(item) {
+    let watchLaterItems = JSON.parse(localStorage.getItem('watchlist')) || [];
+    if (!watchLaterItems.some(i => i.id === item.id)) {
+        watchLaterItems.push(item);
+        localStorage.setItem('watchlist', JSON.stringify(watchLaterItems));
+        alert('Added to watch list');
+    } else {
+        alert('Already in watch list');
+    }
+}
