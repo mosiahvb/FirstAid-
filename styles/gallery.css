@@ -10,6 +10,8 @@ main {
     padding: 8px;
     border-radius: 4px;
     margin: 1rem;
+    display: grid;
+    grid-template-columns: 1fr;
 }
 
 .level-1 div p, .level-2 div p, .level-3 div p {
@@ -21,6 +23,13 @@ main {
     background-color: #415A77;
     color: white;
     border-radius: 4px;
+    text-align: center;
+    margin: 0.5rem;
+}
+.level-1 iframe, .level-2 iframe, .level-3 iframe {
+    display: block; 
+    margin: 0 auto; 
+    max-width: 100%;
 }
 .level-1 div button:hover, .level-2 div button:hover, .level-3 div button:hover {
     background-color: white;

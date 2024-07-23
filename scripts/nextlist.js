@@ -1,10 +1,10 @@
 document.addEventListener("DOMContentLoaded", function() {
-    const watchLaterContainer = document.querySelector('.watch-later');
-    let watchLaterItems = JSON.parse(localStorage.getItem('watchlist')) || [];
+    const watchListCon = document.querySelector('.watch-list');
+    let watchListItems = JSON.parse(localStorage.getItem('watchlist')) || [];
 
     function renderItems() {
-        watchLaterContainer.innerHTML = '';
-        watchLaterItems.forEach(item => {
+        watchListCon.innerHTML = '';
+        watchListItems.forEach(item => {
 
             // Creates each element of the saved Div contents from Local storage from one of the 3 levels.
             const div = document.createElement('div');
@@ -27,14 +27,14 @@ document.addEventListener("DOMContentLoaded", function() {
             div.appendChild(finishedButton);
 
             // append!!!
-            watchLaterContainer.appendChild(div);
+            watchListCon.appendChild(div);
         });
     }
 
     //Remove function 
     function remove(id) {
-        watchLaterItems = watchLaterItems.filter(item => item.id !== id);
-        localStorage.setItem('watchLater', JSON.stringify(watchLaterItems));
+        watchListItems = watchListItems.filter(item => item.id !== id);
+        localStorage.setItem('watchlist', JSON.stringify(watchListItems));
         renderItems();
     }
 
