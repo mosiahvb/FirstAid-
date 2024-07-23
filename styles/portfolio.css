@@ -21,6 +21,14 @@ h2, p {
     text-align: center;
     padding: 5px;
 }
+p {
+    font-size: 18px;
+}
+div li {
+    list-style-type: none;
+    font-size: 20px;
+    text-decoration: underline;
+}
 
 section {
     display: grid;
