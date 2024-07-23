@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    fetch('/data/level-1.json')
+    fetch('../data/level-1.json')
         .then(response => response.json())
         .then(jsonData => {
             const container = document.querySelector('.level-1');
