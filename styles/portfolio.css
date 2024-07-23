@@ -17,12 +17,12 @@ main {
     padding: 20px;
 }
 
-h2, p {
+h1, h2, p {
     text-align: center;
     padding: 5px;
 }
 p {
-    font-size: 18px;
+    font-size: 20px;
 }
 div li {
     list-style-type: none;
@@ -48,6 +48,8 @@ pre {
     background-color: white;
     
 }
+
+
 
 /* Main */
 
